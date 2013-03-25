@@ -36,7 +36,7 @@
 		_supports_bindings: true,
 		
 		//*@protected
-		_bindings_from_observers: null,
+		_bindings_from_observers: [],
 	
 		// ...........................
 		// COMPUTED PROPERTIES
